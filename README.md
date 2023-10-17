@@ -69,7 +69,7 @@ Using business data, risk is priced accurately, policies update in real-time ada
       };
 
       const keys = {
-        token: "..." //token received from the endpoint
+        token: "...", //token received from the endpoint
         platformId: "...",
       };
 
