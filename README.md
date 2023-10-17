@@ -1,4 +1,4 @@
-![Logo](https://kayna.io/wp-content/uploads/2021/11/kayna-logo-300x72.png)
+![Logo](assets/logo.png)
 
 # Kayna Widget
 
