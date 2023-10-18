@@ -71,7 +71,7 @@ Using business data, risk is priced accurately, policies update in real-time ada
       const keys = {
         token: "...", //token received from the endpoint
         platformId: "...",
-        widgetType: "..."
+        widgetType: "kayna"
       };
 
       window.Kayna.init(kaynaParams, {
